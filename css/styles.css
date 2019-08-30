@@ -17,8 +17,10 @@ body{
 
 h2{
   color:red;
+  font-family: arial;
 }
 
 p{
   color:maroon;
+  font-family: arial;
 }
