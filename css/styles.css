@@ -14,3 +14,17 @@ figure {
 body{
   background-color: yellow;
 }
+
+h2{
+  color:red;
+  font-family: arial;
+}
+
+p{
+  color:maroon;
+  font-family: arial;
+}
+
+#smallprint{
+  font-size: 10px;
+}
