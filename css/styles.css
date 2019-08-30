@@ -6,3 +6,7 @@ h1{
 .bg-dark {
     background-color: #ff9600!important;
 }
+
+figure {
+    margin: 0;
+}
